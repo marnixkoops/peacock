@@ -1,9 +1,9 @@
 {
     "name": "tokyo-night-pro",
     "displayName": "Tokyo Night Pro",
-    "description": "A customized mixture of One Dark Pro and Tokyo Night",
+    "description": "A better version of Tokyo Night with improved shades and more contrast",
     "publisher": "marnix",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.60.0"
     },
