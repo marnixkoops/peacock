@@ -1,12 +1,13 @@
 {
     "name": "tokyo-night-pro",
     "displayName": "Tokyo Night Pro",
-    "description": "A better version of Tokyo Night with improved shades and more contrast",
+    "description": "A clean minimal version of Tokyo Night with improved shades and better contrast",
     "publisher": "marnix",
-    "version": "0.1.0",
+    "version": "1.1.1",
     "engines": {
         "vscode": "^1.60.0"
     },
+    "icon": "images/icon.png",
     "author": {
         "name": "Manix Koops",
         "email": "marnixkoops@gmail.com",
