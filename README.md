@@ -1,4 +1,4 @@
-# 🦚 Peacock
+## 🦚 Peacock
 A vibrant yet elegant dark VS Code theme.
 
 ![python](images/screenshot.png)
