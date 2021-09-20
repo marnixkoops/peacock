@@ -1,7 +1,7 @@
 ### **🦚 Peacock**
 A vibrant yet elegant dark VS Code theme.
 
-![peacock](images/peacock.png)
+<img src="images/peacock.png" width="300" height="267">
 
 ![python](images/screenshot.png)
 
