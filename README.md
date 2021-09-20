@@ -1,4 +1,4 @@
-# Tokyo Night Pro
+# 🌃 Tokyo Night Pro
 A better version of Tokyo Night with improved shades and more contrast.
 
 ![python](images/python_syntax.png)
