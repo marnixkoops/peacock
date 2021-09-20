@@ -1,5 +1,5 @@
 # Tokyo Night Pro
-A customized mixture of One Dark Pro and Tokyo Night
+A better version of Tokyo Night with improved shades and more contrast.
 
 ![python](images/python_syntax.png)
 
